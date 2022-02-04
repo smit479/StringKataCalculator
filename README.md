@@ -1,5 +1,8 @@
 **String Calculator TDD Kata**
 
+CODE : CORE JAVA and JUNIT5
+SOFTWARE OR IDLE USED : IntelliJ IDEA Community Edition 2021.3.2
+
 1. Create a simple String calculator with a method signature:
 
     int Add(string numbers)
