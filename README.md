@@ -25,3 +25,6 @@ Hints:
 5. Calling Add with a negative number will throw an exception "negatives not allowed" - and the negative that was passed.
 
 If there are multiple negatives, show all of them in the exception message.
+
+
+The Zip consist full code and files .
